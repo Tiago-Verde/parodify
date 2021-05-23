@@ -1,7 +1,8 @@
 ***Settings***
 Documentation       Testando o player do parodify
 
-Library     Browser
+#Gancho para tirar screenshot apos cada teste
+Test Teardown   Take Screenshot
 
 Resource    ../resources/base.robot
 
@@ -13,9 +14,16 @@ Reproduzir paródia Bug de Manhã
     Login with      vutu.goes@gmail.com     123789
     Wait For Elements State     css=a[href="/users/sign_out"]       visible     20 
     Click       a[href="/search/new"]   
-    Get Text    css=h2      equal       Buscar
+    Wait For Elements State     xpath=//h2[contains(text(), "Buscar")]       visible     20
     Click       xpath=//img[contains(@src, "sertanejo.png")]/..
-    Get Text    css=h2      equal       Sertanejo
+    Wait For Elements State     xpath=//h2[contains(text(), "Sertanejo")]       visible     20
     Click       xpath=//p[contains(text(), "Marcus e Debug")]/..
+    Wait For Elements State     xpath=//h2[contains(text(), "Músicas")]
+    Click       //h2[contains(text(), "Bug de Manhã")]/../../div[contains(@class, "play")]//a
+
+    Get Style   xpath=//h2[contains(text(), "Bug de Manhã")]/../../..       color       equal       rgb(225, 0, 180)
+
+ 
+
 
 

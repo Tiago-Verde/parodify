@@ -1,19 +1,13 @@
-{"level":30,"time":"2021-05-23T01:28:56.522Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Listening on 1112"}
-{"level":30,"time":"2021-05-23T01:28:57.344Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-05-23T01:28:57.359Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
-{"level":30,"time":"2021-05-23T01:28:57.362Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-05-23T01:28:57.606Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-23T01:28:57.606Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
-{"level":30,"time":"2021-05-23T01:29:00.831Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-05-23T01:29:00.853Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-05-23T01:29:00.884Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-05-23T01:29:00.917Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-05-23T01:29:00.947Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-05-23T01:29:00.979Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Retrieved text for element css=h2 containing Tocadas Recentemente"}
-{"level":30,"time":"2021-05-23T01:29:01.045Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Retrieved text for element css=h2 containing Buscar"}
-{"level":30,"time":"2021-05-23T01:29:01.050Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
-{"level":30,"time":"2021-05-23T01:29:01.051Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-23T01:29:01.051Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
-{"level":30,"time":"2021-05-23T01:29:01.061Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
-{"level":30,"time":"2021-05-23T01:29:01.061Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-23T01:29:01.061Z","pid":2060,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T17:59:45.054Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Listening on 1122"}
+{"level":30,"time":"2021-05-23T17:59:45.895Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-23T17:59:45.905Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T17:59:45.908Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-23T17:59:46.126Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-23T17:59:46.126Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T17:59:52.535Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Getting css of element on page"}
+{"level":30,"time":"2021-05-23T17:59:52.658Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T17:59:52.658Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T17:59:52.658Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T17:59:52.669Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T17:59:52.669Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T17:59:52.669Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}

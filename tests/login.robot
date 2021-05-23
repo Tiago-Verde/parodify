@@ -1,8 +1,6 @@
 ***Settings***
 Documentation   Testes de página login
 
-Library     Browser
-
 #Gancho para tirar screenshot apos cada teste
 Test Teardown   Take Screenshot
 

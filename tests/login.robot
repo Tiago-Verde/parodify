@@ -12,47 +12,54 @@ Login com sucesso
 
     Open Login Page  
     Login with  vutu.goes@gmail.com  123789
-    Wait For Elements State     css=a[href="/users/sign_out"]       visible     20
+    Wait Sign_out Element
 
   
 Senha incorreta
 
     Open Login Page  
-    Login with  vutu.goes@gmail.com  123456
     Wait For Elements State     css=label[for=user_email]       visible     20
+    Login with  vutu.goes@gmail.com  123456
     Alert  Opps! Dados de acesso incorretos!      
 
     
 Email incorreto
 
     Open Login Page 
-    Login with  teste@teste.com.br  123789
     Wait For Elements State     css=label[for=user_email]       visible     20
+    Login with  teste@teste.com.br  123789
     Alert  Opps! Dados de acesso incorretos! 
 
     
 Campo e-mail vazio
 
-    Open Login Page  
+    Open Login Page
+    Wait For Elements State     css=label[for=user_email]       visible     20  
     Login with  ${EMPTY}    123789
-    Wait For Elements State     css=label[for=user_email]       visible     20
     Alert  Opps! Dados de acesso incorretos! 
 
     
 Campo senha vazio
 
     Open Login Page  
-    Login with  vutu.goes@gmail.com     ${EMPTY}
     Wait For Elements State     css=label[for=user_email]       visible     20
+    Login with  vutu.goes@gmail.com     ${EMPTY}
     Alert  Opps! Dados de acesso incorretos! 
 
     
 Campo Senha e Email vazios
 
     Open Login Page  
-    Login with  ${EMPTY}    ${EMPTY}
     Wait For Elements State     css=label[for=user_email]       visible     20
+    Login with  ${EMPTY}    ${EMPTY}
     Alert  Opps! Dados de acesso incorretos! 
 
+Faz Logout
+
+    Open Login Page
+    Login with  vutu.goes@gmail.com  123789
+    Wait Sign_out Element
+    Do Logout
+   
     
 

@@ -1,13 +1,87 @@
-{"level":30,"time":"2021-05-23T17:59:45.054Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Listening on 1122"}
-{"level":30,"time":"2021-05-23T17:59:45.895Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-05-23T17:59:45.905Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
-{"level":30,"time":"2021-05-23T17:59:45.908Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2021-05-23T17:59:46.126Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-23T17:59:46.126Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
-{"level":30,"time":"2021-05-23T17:59:52.535Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Getting css of element on page"}
-{"level":30,"time":"2021-05-23T17:59:52.658Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
-{"level":30,"time":"2021-05-23T17:59:52.658Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-23T17:59:52.658Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
-{"level":30,"time":"2021-05-23T17:59:52.669Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
-{"level":30,"time":"2021-05-23T17:59:52.669Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-23T17:59:52.669Z","pid":5320,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:33.819Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Listening on 5521"}
+{"level":30,"time":"2021-05-23T20:54:34.680Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-23T20:54:34.687Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:34.897Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-23T20:54:34.897Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:40.726Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:40.726Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:54:40.727Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:40.737Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:40.737Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:54:40.737Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:41.365Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-23T20:54:41.375Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:41.583Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-23T20:54:41.584Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:46.513Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Retrieved text for element div[class=message-body] containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-05-23T20:54:46.752Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:46.752Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:54:46.752Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:46.763Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:46.763Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:54:46.763Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:47.491Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-23T20:54:47.501Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:47.646Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-23T20:54:47.646Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:53.133Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Retrieved text for element div[class=message-body] containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-05-23T20:54:53.374Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:53.374Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:54:53.374Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:53.393Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:53.393Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:54:53.394Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:54.059Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-23T20:54:54.065Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:54.275Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-23T20:54:54.275Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:58.515Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Retrieved text for element div[class=message-body] containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-05-23T20:54:58.769Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:58.769Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:54:58.769Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:58.779Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:58.779Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:54:58.779Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:54:59.574Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-23T20:54:59.582Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:54:59.755Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-23T20:54:59.755Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:55:05.175Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Retrieved text for element div[class=message-body] containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-05-23T20:55:05.455Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:55:05.455Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:55:05.455Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:55:05.465Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:55:05.465Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:55:05.465Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:55:06.111Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-23T20:55:06.129Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:55:06.338Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-23T20:55:06.338Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:55:12.572Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Retrieved text for element div[class=message-body] containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-05-23T20:55:12.839Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:55:12.839Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:55:12.839Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:55:12.855Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:55:12.855Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:55:12.855Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:55:13.570Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-23T20:55:13.577Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:55:13.797Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-23T20:55:13.797Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:55:20.250Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:55:20.250Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:55:20.250Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:55:20.260Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:55:20.260Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:55:20.260Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:55:21.026Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-23T20:55:21.031Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:55:21.242Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-23T20:55:21.242Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:55:28.847Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Getting css of element on page"}
+{"level":30,"time":"2021-05-23T20:55:28.964Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:55:28.964Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:55:28.964Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-23T20:55:28.974Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-23T20:55:28.974Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-23T20:55:28.974Z","pid":11044,"hostname":"DESKTOP-QIRMSEO","msg":"Changed active page"}

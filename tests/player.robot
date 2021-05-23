@@ -11,19 +11,24 @@ Resource    ../resources/base.robot
 Reproduzir paródia Bug de Manhã
 
     Open Login Page
-    Login with      vutu.goes@gmail.com     123789
+    Login with                  vutu.goes@gmail.com     123789
     Wait For Elements State     css=a[href="/users/sign_out"]       visible     20 
-    Click       a[href="/search/new"]   
-    Wait For Elements State     xpath=//h2[contains(text(), "Buscar")]       visible     20
-    Click       xpath=//img[contains(@src, "sertanejo.png")]/..
-    Wait For Elements State     xpath=//h2[contains(text(), "Sertanejo")]       visible     20
-    Click       xpath=//p[contains(text(), "Marcus e Debug")]/..
-    Wait For Elements State     xpath=//h2[contains(text(), "Músicas")]
-    Click       //h2[contains(text(), "Bug de Manhã")]/../../div[contains(@class, "play")]//a
+    Go to Search Page
+    Go to Sertanejo Category
+    Open Album From             Marcus e Debug
+    Play Song                   Bug de Manhã           
+    Song Should Be Playing      Bug de Manhã
+    
 
-    Get Style   xpath=//h2[contains(text(), "Bug de Manhã")]/../../..       color       equal       rgb(225, 0, 180)
 
- 
 
+
+
+
+
+
+
+
+  
 
 

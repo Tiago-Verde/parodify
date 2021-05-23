@@ -14,7 +14,7 @@ Login com sucesso
 
     Open Login Page  
     Login with  vutu.goes@gmail.com  123789
-    Wait For Elements State     css=a[href="/users/sign_out"]       visible     10  
+    Wait For Elements State     css=a[href="/users/sign_out"]       visible     20
 
   
 Senha incorreta

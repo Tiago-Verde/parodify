@@ -16,7 +16,7 @@ Caso não possua o **Python** instalado consulte a documentação em [Python.org
 
 ## Exemplo
 
-Esse é um exemplo de um caso de teste simples para testar o login em algum sistema retirado do site <http://robotframework.org/#examples>
+Esse é um exemplo de um caso de teste simples para testar o login em algum sistema. O exemplo foi retirado do site <http://robotframework.org/#examples>
 
 ``` 
 *** Settings ***

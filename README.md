@@ -1,7 +1,7 @@
 # Robot Framework 
 ## Introdução
 
-**Robot Framework** é uma estrutura de automação de código aberto que pode ser usado para automação de testes e automação de processo robótico, tem sintaxe fácil utilizando palavras-chave que são legíveis para humanos. Seus recursos podem ser estendidos por bibliotecas implementadas com **Python** e **Java**.
+**Robot Framework** é uma estrutura de automação, de código aberto que pode ser usado para automação de testes e automação de processos robóticos, tem sintaxe fácil e usa palavras-chave que são legíveis para humanos. Seus recursos podem ser estendidos por bibliotecas implementadas com **Python** e **Java**.
 Exemplos de utilização podem ser encontradas em seu site oficial
  [Robot Framework](http://robotframework.org)
 

@@ -27,13 +27,8 @@ Caso possua dúvidas com relação a instalação do **Python** consulte a docum
 
 O projeto possui três diretórios principais sendo elas:
 
-* /logs
 * /resources
 * /tests
-
-###  -- logs
-
-Pasta responsável pelo armazenamento de todo relatório de testes elaborado pela aplicação. Incluindo prints e estatísticas.
 
 ###  -- resources
 
@@ -60,6 +55,8 @@ Execute no terminal o comando **robot --help** para obter mais informações sob
 Para uma referência mais completa acesse o [Robot framework user guide](http://http://robotframework.org/robotframework/#user-guide)
 
 ## Documentação
+
+O projeto quando executado gera um status report com os dados da execução do projeto armazenados na pasta /logs
 
 * [Robot Framework](https://robotframework.org/)
 * [Biblioteca Browser](https://github.com/MarketSquare/robotframework-browser)

@@ -1,15 +1,15 @@
 # Robot Framework 
 ## Introdução
 
-**Robot Framework** é uma estrutura de automação de código aberto. Pode ser usado para automação de testes e automação de processo robótico, tem sintaxe fácil utilizando palavras-chave que são legíveis para humanos. Seus recursos podem ser estendidos por bibliotecas implementadas com **Python** e **Java**
+**Robot Framework** é uma estrutura de automação de código aberto que pode ser usado para automação de testes e automação de processo robótico, tem sintaxe fácil utilizando palavras-chave que são legíveis para humanos. Seus recursos podem ser estendidos por bibliotecas implementadas com **Python** e **Java**.
 Exemplos de utilização podem ser encontradas em seu site oficial
  [Robot Framework](http://robotframework.org)
 
-Ele está hospedado no [Github](https://github.com/robotframework/robotframework) onde é possivel encontrar uma documentação mais detalhada.
+Está hospedado no [Github](https://github.com/robotframework/robotframework) onde é possivel encontrar uma documentação mais detalhada.
 
 ## Instalação
 
-Ele é independente do sistema operacional, mas sua estrutura principal é implementada usando **Python**. Para isso se faz necesário a instalação do ambiente em sua maquina.
+Ele é independente do sistema operacional, mas sua estrutura principal é implementada usando **Python**. Para isso se faz necessário a instalação do ambiente em sua máquina.
 
 Acesse o site [Python.org](https://www.python.org/) e na aba [downloads](https://www.python.org/downloads/) escolha a última versão estável e compatível com seu sistema operacional. Após o download realizado execute o arquivo e escolha o diretório onde o Python será instalado.
 Para confirmar se a instalação foi bem sucedida, abra o seu terminal e digite o comando:
@@ -37,7 +37,7 @@ Pasta responsável pelo armazenamento de todo relatório de testes elaborado pel
 
 ###  -- resources
 
-Possui o diretório /actions onde é armazenado os arquivos que implementam as Keywords do projeto.
+Possui o diretório **/actions** onde é armazenado os arquivos que implementam as Keywords do projeto.
 
 ###  -- tests
 
@@ -53,9 +53,11 @@ O parametro **-d** é responsável por especificar o diretório onde os resultad
 
 O paramatro **-v** é responsável por identificar uma variável que foi especificada no código.
 
-**tests\** é a pasta onde nossos cenários de testes estão alocados.
+**tests** é a pasta onde nossos cenários de testes estão alocados.
 
-Execute no terminal o comando **robot --help** para obter mais informações sobre o uso da linha de comando. Para uma referência mais completa acesse o [Robot framework user guide](http://http://robotframework.org/robotframework/#user-guide)
+Execute no terminal o comando **robot --help** para obter mais informações sobre o uso da linha de comando. 
+
+Para uma referência mais completa acesse o [Robot framework user guide](http://http://robotframework.org/robotframework/#user-guide)
 
 ## Documentação
 
